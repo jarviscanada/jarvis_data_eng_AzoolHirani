@@ -1,16 +1,16 @@
  
 AZOOL HIRANI
-(226) 606 - 0352 
-azool.hirani@gmail.com
-https://www.linkedin.com/in/azool-hirani-819578181
+<br>(226) 606 - 0352 
+<br>azool.hirani@gmail.com
+<br>https://www.linkedin.com/in/azool-hirani-819578181
 
 
 
-SUMMARY
+<b><u>SUMMARY</u><b>
 
 Looking for a position as a Software Development Engineer where I can exercise my skills and prosper the company. I am a good timekeeper, always willing to learn new skills. I am friendly, helpful and polite, have a good sense of humor. I am able to work independently in busy environments and also within a team setting. I am outgoing and tactful, and able to listen effectively when solving problems.
 
-EDUCATION
+**EDUCATION**
 
 Web Design and Development          			                                                             Sept 2019 – Dec 2020
 Conestoga College, Kitchner, ON

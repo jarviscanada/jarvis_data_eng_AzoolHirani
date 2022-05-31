@@ -1,4 +1,4 @@
-nux Cluster Monitoring Agent
+Linux Cluster Monitoring Agent
 
 ## Introduction
 In this project I had to implement a monitoring system that keeps track of the host hardware specifications and usage, and stores them in a database. The users of this project are anyone who has a cluster of machines as part of their project, and they need to determine whether they need to scale vertically or horizontally to fit their needs. I have used Bash, Docker, Postgres, and Git in my implementation. As for testing, it was done manually on a CentOS virtual machine on the Google Cloud Platform.
